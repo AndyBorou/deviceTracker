@@ -5,4 +5,5 @@ package com.waverley.tracker.tesstDir;
  */
 public class Test {
     int i =3;
+    int ii =3;
 }
