@@ -25,7 +25,7 @@ public class DeviceDTO {
     private UserDTO userDTO;
     private String shared;
 
-    public UserDTO getUserDTO() {
+    public UserDTO getUserDTO(){
         return userDTO;
     }
 
