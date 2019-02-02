@@ -37,7 +37,7 @@ public class AdminController {
     @Autowired
     private DeviceService deviceService;
 
-    @RequestMapping(value = "/createNewUserAJAX", method = RequestMethod.GET)
+    @RequestMapping( value = "/createNewUserAJAX", method = RequestMethod.GET)
     @ResponseBody
     public String createNewUser(@Valid UserDTO userDTO, String emptyFill) {
         emptyFill = userService.createUserDTO(userDTO, emptyFill);
