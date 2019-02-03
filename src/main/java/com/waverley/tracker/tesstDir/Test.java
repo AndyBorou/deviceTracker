@@ -5,5 +5,6 @@ package com.waverley.tracker.tesstDir;
  */
 public class Test {
     String i = "23:09";
-    String i = "23:19";
+    String i2 = "23:19";
+    String i2i = "23:24";
 }
