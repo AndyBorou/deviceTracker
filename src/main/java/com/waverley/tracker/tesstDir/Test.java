@@ -10,4 +10,9 @@ public class Test {
 
     String a = "a";
     String b = "b";
+
+    int as = 1;
+    int ac = 2;
+
+    int av;
 }
