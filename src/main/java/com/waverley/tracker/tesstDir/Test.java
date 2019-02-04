@@ -8,4 +8,7 @@ public class Test {
     String i2 = "23:19";
     String i2i = "23:24";
 
+    String a = "a";
+    String b = "b";
+
 }
