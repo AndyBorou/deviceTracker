@@ -14,5 +14,5 @@ public class Test {
     int as = 1;
     int ac = 2;
 
-    int av;
+    int av = 2;
 }
