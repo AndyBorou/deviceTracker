@@ -10,6 +10,4 @@ public class Test {
 
     String a = "a";
     String b = "b";
-
-
 }
