@@ -8,8 +8,8 @@ public class Test {
     String i2 = "23:19";
     String i2i = "23:24";
 
-    int c =5;
-    String c3 = "20:02";
-    String c4 = "20:03";
+    String a = "a";
+    String b = "b";
+
 
 }
