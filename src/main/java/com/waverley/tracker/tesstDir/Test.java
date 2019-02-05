@@ -15,6 +15,6 @@ public class Test {
     int ac = 2;
 
     int av = 2;
-
+    String b = "22 32";
     String a = "22:25";
 }
