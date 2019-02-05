@@ -17,4 +17,5 @@ public class Test {
     int av = 6;
     String b = "22 32";
     String a = "22:25";
+    String stash = "22:31";
 }
