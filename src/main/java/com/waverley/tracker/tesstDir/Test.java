@@ -19,4 +19,6 @@ public class Test {
     String asd = "asd";
 
     String squash = "1";
+    String squash2 = "2";
+    String squash3 = "3";
 }
