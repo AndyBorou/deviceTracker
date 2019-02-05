@@ -7,7 +7,7 @@ public class Test {
     int i =3;
     String i2 = "23:19";
     String i2i = "23:24";
-
+    String v = "22 42";
     int c =5;
     String c3 = "20:02";
     String c4 = "20:03";
