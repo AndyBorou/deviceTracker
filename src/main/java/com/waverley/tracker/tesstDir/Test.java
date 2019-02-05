@@ -15,10 +15,4 @@ public class Test {
     int ac = 2;
 
     int av = 2;
-
-    String asd = "asd";
-
-    String squash = "1";
-    String squash2 = "2";
-    String squash3 = "3";
 }
