@@ -17,4 +17,6 @@ public class Test {
     int av = 2;
 
     String asd = "asd";
+
+    String squash = "1";
 }
